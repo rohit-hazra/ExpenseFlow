@@ -32,11 +32,11 @@ ExpenseFlow is a polished, full-stack personal finance dashboard for recording i
 ### A simple flow
 
 ```mermaid
-flowchart LR
-    A[Create an account] --> B[Add income and expenses]
-    B --> C[Set a monthly budget]
-    C --> D[Review dashboard and analytics]
-    D --> E[Export a PDF report]
+graph LR
+    A["Create an account"] --> B["Add income and expenses"]
+    B --> C["Set a monthly budget"]
+    C --> D["Review dashboard and analytics"]
+    D --> E["Export a PDF report"]
 ```
 
 <details>
