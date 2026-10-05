@@ -200,11 +200,12 @@ When testing manually, verify registration, login/session restore, CRUD operatio
 
 ## 🛣️ Possible next steps
 
-- Add automated API and component tests
-- Add server-side pagination and richer date-range filtering
-- Move Chart.js from the CDN script tag into the frontend dependency graph
-- Add deployment configuration and production environment examples
-- Add recurring transactions and CSV export
+- **AI-Powered Receipt Capture** — Upload receipt images and automatically extract key expense details such as merchant, amount, date, category, and payment method, with a review step before saving.
+- **Automated Testing** — Add comprehensive API and component tests to improve reliability and maintainability.
+- **Advanced Data Filtering** — Introduce server-side pagination and richer date-range filtering for faster and more flexible expense tracking.
+- **Improved Chart Integration** — Move Chart.js from the CDN to the frontend dependency graph for cleaner and more maintainable integration.
+- **Production-Ready Deployment** — Add deployment configuration, environment examples, and production setup guidance.
+- **Recurring Transactions & CSV Export** — Support recurring income and expenses while allowing users to export their financial data as CSV.
 
 ## 📄 License
 
