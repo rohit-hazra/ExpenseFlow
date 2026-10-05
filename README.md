@@ -207,10 +207,6 @@ When testing manually, verify registration, login/session restore, CRUD operatio
 - **Production-Ready Deployment** — Add deployment configuration, environment examples, and production setup guidance.
 - **Recurring Transactions & CSV Export** — Support recurring income and expenses while allowing users to export their financial data as CSV.
 
-## 📄 License
-
-No license has been specified yet. Add a `LICENSE` file before distributing the project publicly.
-
 ---
 
 <p align="center">Built with React, Express, MongoDB, and a little financial clarity.</p>
